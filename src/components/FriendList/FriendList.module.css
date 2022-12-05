@@ -1,0 +1,19 @@
+.friends {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  max-width: 300px;
+  margin: 0 auto;
+  margin-top: 20px;
+
+  background-color: rgb(234, 234, 241);
+  box-shadow: 9px 9px 14px -6px rgba(105, 103, 105, 1);
+  border-radius: 4px;
+}
+
+.friends_list {
+  display: flex;
+  flex-direction: column;
+  width: inherit;
+  padding: 0;
+}
